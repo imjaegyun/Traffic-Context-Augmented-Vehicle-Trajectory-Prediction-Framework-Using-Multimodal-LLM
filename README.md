@@ -2,4 +2,4 @@
 
 ![Framework Overview](architecture.png)
 
-![TSUE arch](architecture2.png)
+![TSUE arch](architecure_2.png)
